@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'Product-Eco-Score-Checker',
+  base: '/Product-Eco-Score-Check/',
   plugins: [react()],
   optimizeDeps: {
     include: ['chart.js'],
