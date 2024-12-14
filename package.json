@@ -12,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "homepage": "https://adityadubey98.github.io/Product-Eco-Score-Checker"
-"
 
   },
   "dependencies": {
